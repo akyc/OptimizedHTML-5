@@ -1,5 +1,5 @@
 <h1>OptimizedHTML 5</h1>
-<p>Lightweight production ready Gulp starter.</p>
+<p>Lightweight production-ready Gulp starter.</p>
 
 <p>
 	<img src="https://raw.githubusercontent.com/agragregra/oh5/master/app/images/src/preview.jpg" alt="Start HTML Template">
@@ -11,7 +11,7 @@
 
 <p>Clone into the current folder and remove all unnecessary (one command):</p>
 
-<pre>git clone https://github.com/agragregra/oh5 .; rm -rf trunk .gitignore readme.md .git</pre>
+<pre>git clone https://github.com/agragregra/oh5 .; rm -rf trunk .gitignore readme.md .git dist</pre>
 
 <ol>
 	<li>Clone or <a href="https://github.com/agragregra/OptimizedHTML-5/archive/master.zip">Download</a> <strong>OptimizedHTML 5</strong> from GitHub</li>
@@ -100,7 +100,7 @@ Or get from google-webfonts-helper: <a href="https://google-webfonts-helper.hero
 	<li><strong>600</strong> - Semibold or Demibold</li>
 	<li><strong>700</strong> - Bold</li>
 	<li><strong>800</strong> - Black or Extra Bold or Heavy</li>
-	<li><strong>900</strong> - Extra Black or Fat or Ultra Blac</li>
+	<li><strong>900</strong> - Extra Black or Fat or Ultra Blac or Heavy</li>
 </ul>
 
 <h2>Caching</h2>
